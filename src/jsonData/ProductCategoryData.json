@@ -1,0 +1,27 @@
+[
+  {
+    "key": 1,
+    "name": "Category 1",
+    "action": "<Link to='/admin/category/1' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(1)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 2,
+    "name": "Category 2",
+    "action": "<Link to='/admin/category/2' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(2)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 3,
+    "name": "Category 3",
+    "action": "<Link to='/admin/category/3' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(3)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 4,
+    "name": "Category 4",
+    "action": "<Link to='/admin/category/4' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(4)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 5,
+    "name": "Category 5",
+    "action": "<Link to='/admin/category/5' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(5)'><AiFillDelete /></button>"
+  }
+]

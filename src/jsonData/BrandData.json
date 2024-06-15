@@ -1,0 +1,77 @@
+[
+  {
+    "key": 1,
+    "name": "Brand 1",
+    "action": "<Link to='/admin/brand/1' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(1)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 2,
+    "name": "Brand 2",
+    "action": "<Link to='/admin/brand/2' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(2)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 3,
+    "name": "Brand 3",
+    "action": "<Link to='/admin/brand/3' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(3)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 4,
+    "name": "Brand 4",
+    "action": "<Link to='/admin/brand/4' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(4)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 5,
+    "name": "Brand 5",
+    "action": "<Link to='/admin/brand/5' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(5)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 6,
+    "name": "Brand 6",
+    "action": "<Link to='/admin/brand/6' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(6)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 7,
+    "name": "Brand 7",
+    "action": "<Link to='/admin/brand/7' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(7)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 8,
+    "name": "Brand 8",
+    "action": "<Link to='/admin/brand/8' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(8)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 9,
+    "name": "Brand 9",
+    "action": "<Link to='/admin/brand/9' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(9)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 10,
+    "name": "Brand 10",
+    "action": "<Link to='/admin/brand/10' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(10)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 11,
+    "name": "Brand 11",
+    "action": "<Link to='/admin/brand/11' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(11)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 12,
+    "name": "Brand 12",
+    "action": "<Link to='/admin/brand/12' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(12)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 13,
+    "name": "Brand 13",
+    "action": "<Link to='/admin/brand/13' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(13)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 14,
+    "name": "Brand 14",
+    "action": "<Link to='/admin/brand/14' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(14)'><AiFillDelete /></button>"
+  },
+  {
+    "key": 15,
+    "name": "Brand 15",
+    "action": "<Link to='/admin/brand/15' className='fs-3 text-danger'><BiEdit /></Link><button className='ms-3 fs-3 text-danger bg-transparent border-0' onClick='showModal(15)'><AiFillDelete /></button>"
+  }
+]
